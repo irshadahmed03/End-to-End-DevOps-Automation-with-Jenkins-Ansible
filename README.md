@@ -63,6 +63,17 @@ Instances:
 
 # copy the password and paste in jenkins
 
+<img width="1651" height="909" alt="image" src="https://github.com/user-attachments/assets/16a1fae8-fe9c-484f-94d3-bbafad2f0370" />
+
+# Install plugins in jenkins maven and ansible
+<img width="1914" height="599" alt="image" src="https://github.com/user-attachments/assets/ad5a36bc-d6fc-4f5e-b3da-fa12b78fa8b5" />
+
+# Install maven and ansible in Jenkins
+<img width="1702" height="568" alt="image" src="https://github.com/user-attachments/assets/73bd0efe-2315-4cee-af6e-e916a233fd6e" />
+
+<img width="1592" height="552" alt="image" src="https://github.com/user-attachments/assets/a31eb774-dc3e-441d-9a7d-003bf6114ad3" />
+
+# Create a Job and write a pipeline
 
 
   
