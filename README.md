@@ -1,7 +1,7 @@
 # End-to-End DevOps Automation with Jenkins + Ansible
 # Objective: Automate infrastructure setup and app deployment using IaC.
 Tools & Technologies: Jenkins, Ansible, Docker, Git, Linux
-Deliverables:
+  # Deliverables:
   1. Jenkins pipeline integrated with Ansible
   2. Playbook for app deployment
   3. Continuous delivery demo
